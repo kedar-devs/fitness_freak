@@ -1,6 +1,5 @@
 import React from 'react'
-import men from './../pics/alexander-redl-d3bYmnZ0ank-unsplash.jpg';
-import women from './../pics/trust-tru-katsande-Pu7BOaYlYGY-unsplash.jpg'
+
 function Info() {
     return (
         <div className='container-fluid'>

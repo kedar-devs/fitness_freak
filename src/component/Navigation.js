@@ -1,6 +1,6 @@
 import React from 'react'
 import './../css/navigation.css';
-import bar from './../css/myFunction.js';
+
 import { Link } from 'react-router-dom';
 
 

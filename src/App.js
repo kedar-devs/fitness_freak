@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/mainpage.css'
 import Nav from './component/Navigation.js';
 
-import {BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import {BrowserRouter as Router, Route } from 'react-router-dom';
 import 'bootstrap/dist/js/bootstrap.bundle'
 
 import Home from './component/Home';
