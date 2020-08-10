@@ -1,0 +1,56 @@
+.arm{
+    background-color: pink;
+    color: white;
+}
+.card-arm{
+    background-color:white;
+    color:pink;
+
+}
+.farm{
+    font-size:15px
+}
+.beginner{
+    background-color:green;
+    color:white
+}
+.faded{
+    animation: fadeInAnimation ease 5s; 
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+    
+}
+.card-beg{
+    background-color: green;
+    color:rgb(243, 69, 98);
+}
+.intermediate{
+    background-color:yellow;
+    color:white;
+}
+.card-int{
+    background-color:yellow;
+    color:rgb(243, 69, 98);
+}
+.adv{
+    background-color:red;
+    color:white
+}
+.card-adv{
+    background-color:red;
+    color:rgb(243, 69, 98);
+}
+
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+     } 
+} 
+h3{
+    font-size: 52px;
+    text-decoration: unset;
+    text-transform: uppercase;
+}

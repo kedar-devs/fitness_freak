@@ -1,0 +1,98 @@
+.bellyw{
+    background-color:#222;
+    background-image: url("../pics/womenbelly.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.armw{
+    background-color:#222;
+    background-image: url("../pics/womanarm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.buttw{
+    background-color:#222;
+    background-image: url("../pics/buut1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.thighw{
+    background-color:#222;
+    background-image: url("../pics/wallpaperflare.com_wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.overallw{
+    background-color:#222;
+    background-image: url("../pics/jonathan-borba-lrQPTQs7nQQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}

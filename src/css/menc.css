@@ -1,0 +1,98 @@
+.chest{
+    background-color:#222;
+    background-image: url("../pics/man_chest_main.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.arm{
+    background-color:#222;
+    background-image: url("../pics/sexy\ arm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.abs{
+    background-color:#222;
+    background-image: url("../pics/abs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.legs{
+    background-color:#222;
+    background-image: url("../pics/sexylegs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}
+.overall{
+    background-color:#222;
+    background-image: url("../pics/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 300px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    color:white;
+    text-transform: uppercase;
+    font-size: 80px;
+    font-weight: 18px;
+    padding-top: 55px;
+}

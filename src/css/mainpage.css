@@ -1,0 +1,150 @@
+.background{
+    background-image:url("h1_hero.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 800px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    background-position: center center;     
+}
+.header{
+    padding: center;
+    color:red;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 17rem;
+}
+h1{
+    font-size: 85px;
+}
+.sub{
+    color:white;
+    font-size: 25px;
+}
+.menko{
+    background-color:#222;
+    background-image: url("../pics/add-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 500px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    background-position: center center;      
+
+}
+h5{
+    text-transform:capitalize;
+}
+.womenko{
+    background-color:#222;
+    background-image: url("../pics/hi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 500px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    background-position: center center;  
+    
+}
+.Beni{
+    background-image:url("../pics/kike-vega-F2qh3yjz6Jk-unsplash.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 800px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    background-position: center center   
+}
+.sisko{
+    padding-top:80px;
+}
+.siskow{
+    padding-top:150px;
+}
+.benifits{
+    background:rgb(0,0,0,0.7);
+
+}
+small{
+    color:blue
+}
+li{
+    color:white;
+    font-size:25px;
+}
+.menchoice{
+    background-image: url('../pics/sam-sabourin-KZrwKV90zRk-unsplash.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 450px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #7a3f3f;
+    background-position: center center;
+    text-transform: uppercase;
+
+
+}
+.womenchoice{
+    background-image: url('../pics/cathy-pham-3jAN9InapQI-unsplash.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: initial;
+    min-height: 450px;
+    -webkit-background-size: 100%;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: auto;
+    position:center;
+    background-color: #464646;
+    background-position: center center;
+    text-transform: uppercase;
+}
+.womenchoice:hover{
+    background-color: rgb(253, 251, 251, 0.5);   
+}
+
+.subhead{
+    padding-top:200px;
+    font-size:35px;
+    color: rgb(241, 7, 202);
+    background-color: rgb(253, 251, 251, 0.4);
+    height: 450px;
+    text-decoration: none;
+}
+.subhead-men{
+    padding-top:200px;
+    font-size:35px;
+    background-color: rgb(253, 251, 251, 0.4);
+    height: 450px;
+    color:blue;
+}
+h2{
+    font-size:52px;
+    text-transform: uppercase;
+    text-decoration: unsplash;
+}
